@@ -1,7 +1,7 @@
 name: joshbaurle
 favicon: null
-layout_spectrum: 0.18745953124016523
-typography_spectrum: 0.0982
+layout_spectrum: 1
+typography_spectrum: 0.19573
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#7a96a2'
-    - '#313155'
-    - '#eef5fd'
-    - '#9fc7fd'
-    - '#010103'
+    - '#ffffff'
+    - '#422f2b'
+    - '#7a5b3f'
+    - '#fed9a2'
+    - '#120602'
   brandStrength: 0.9748931399080902
   lightness: 0.16792206768877804
   saturation: 0.44949974212795496
