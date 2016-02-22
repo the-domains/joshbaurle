@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[joshbaurle]]></title>
         <description><![CDATA[joshbaurle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joshbaurle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:43:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 18:40:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joshbaurle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinede40e05b5-8b96-4e99-86f4-6914ebe27242/index.html</link>
+            <description><![CDATA[<p>Look, ma! A website!</p>]]></description>
+            <link>https://thegrid.ai/joshbaurle/e40e05b5-8b96-4e99-86f4-6914ebe27242/index.html</link>
             <guid isPermaLink="false">e40e05b5-8b96-4e99-86f4-6914ebe27242</guid>
-            <pubDate>Mon, 22 Feb 2016 12:43:15 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 18:40:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
